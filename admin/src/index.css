@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+input:focus,
+textarea:focus ,
+select:focus{
+    outline: none;
+}
+
+.side-bar{
+    @apply w-[250px]  pt-16 p-4 text-white z-20 transition-all duration-200 min-h-screen fixed top-0  md:left-0 bg-slate-800 
+}
+
+.side-bar-overlay {
+    @apply w-full z-10 h-screen md:hidden transition-all duration-150 fixed top-0 bg-[#00000031]
+}
+
+.settings-option {
+    @apply flex hover:bg-white cursor-pointer hover:text-slate-800 active:bg-white active:text-slate-800 items-center px-3 py-2 rounded select-none 
+}

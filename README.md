@@ -41,6 +41,7 @@ cd e-commerce
 
 ```bash 
 cd client && npm install
+cd ../admin && npm install
 cd ../server && npm install
 ```
 
@@ -69,11 +70,15 @@ e-commerce/
  ├── README.md
  └── LICENSE
 ```
-## 📖 Docs
 
-- [Shop fronend](/client/README.md)
-- [Admin frontend](/admin/README.md)
-- [Backend](/server/README.md)
+## 📖 Documentation
+
+- [API Endpoints](docs/API_REFERENCE.md) – Complete list of REST API endpoints, request/response formats, and error handling.
+- [Admin Frontend](admin/README.md) – Instructions and documentation for the admin panel.
+- [Backend](server/README.md) – Backend setup, installation, environment variables, and architecture.
+
+---
+
 
 ## 📜 License
 
