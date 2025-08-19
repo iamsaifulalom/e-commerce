@@ -60,7 +60,8 @@ Backend runs on ``http://localhost:3000 🎉``
 ## 📂 Project Structure
 
 ```bash
-ecommerce-app/
+e-commerce/
+ ├── admin/           # Frontend (React)
  ├── client/          # Frontend (React)
  ├── server/          # Backend (Node.js / Express)
  ├── docs/            # Documentation, screenshots, API docs
