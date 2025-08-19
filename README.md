@@ -74,7 +74,7 @@ cd ../admin && npm install
 cd ../server && npm install
 ```
 
-## Configure environment variables
+## 🛠 Configure environment variables
 Each app has its own `.env` file:
 
 For **``server``** create a `.env` file in the root directory (same location as package.json) with the following content:
@@ -113,9 +113,10 @@ cd admin && npm run dev # Run backend
 cd client && npm run dev # Run frontend
 ```
 
-Backend runs on ``http://localhost:8080 🎉``.
-Admin runs on ``http://localhost:3001 🎉``.
-Frontend runs on ``http://localhost:3000 🎉``.
+Backend runs on ``http://localhost:8080 🎉`` .
+Admin runs on ``http://localhost:3001 🎉`` .
+Frontend runs on ``http://localhost:3000 🎉`` .
+
 ## 📄 Documentation
 
 - [API Endpoints](docs/API_REFERENCE.md) – Complete list of REST API endpoints, request/response formats, and error handling.
