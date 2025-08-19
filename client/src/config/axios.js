@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const bazarBhaiApi = axios.create({
-    baseURL: import.meta.env.VITE_BAZAR_BHAI_API_URL,
+    baseURL: import.meta.env.VITE_BACKEND_URL,
     headers: {
         "Content-Type": "application/json"
     }
