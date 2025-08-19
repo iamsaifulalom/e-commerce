@@ -1,9 +1,9 @@
-# E-Commerce REST API Documentation 
+# 📋 API Documentation 
 
 This API allows users to register, login, browse products, place orders, and more. 
 Admins can manage products, categories, and orders. 
 
-**Key Features:**
+**⚙️ Key Features:**
 - User registration, login 
 - Product, user, order and category management
 - Cart and order management

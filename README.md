@@ -105,7 +105,7 @@ Obtain Cloudinary credentials from Cloudinary Dashboard.
 **Set up a MongoDB instance and get the URI from MongoDB Atlas or a local MongoDB installation.**
 Use a secure random string for `JWT_SECRET`.
 
-## Run the project localy
+## 🏃🏻‍♂️‍➡️ Run the project localy
 
 ```bash 
 cd server && npm run dev # Run backend
@@ -113,14 +113,12 @@ cd admin && npm run dev # Run backend
 cd client && npm run dev # Run frontend
 ```
 
-Backend runs on ``http://localhost:8080 🎉``
-Admin runs on ``http://localhost:3001 🎉``
-Frontend runs on ``http://localhost:3000 🎉``
+Backend runs on ``http://localhost:8080 🎉``.
+Admin runs on ``http://localhost:3001 🎉``.
+Frontend runs on ``http://localhost:3000 🎉``.
 ## 📄 Documentation
 
 - [API Endpoints](docs/API_REFERENCE.md) – Complete list of REST API endpoints, request/response formats, and error handling.
-- [Admin Frontend](admin/README.md) – Instructions and documentation for the admin panel.
-- [Backend](server/README.md) – Backend setup, installation, environment variables, and architecture.
 
 ---
 
