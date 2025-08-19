@@ -69,6 +69,11 @@ e-commerce/
  ├── README.md
  └── LICENSE
 ```
+## 📖 Docs
+
+- [Shop fronend](/client/README.md)
+- [Admin frontend](/admin/README.md)
+- [Backend](/server/README.md)
 
 ## 📜 License
 
